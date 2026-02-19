@@ -4,7 +4,8 @@ description: Define the non-negotiable fundamentals that must be perfect every t
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4613
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
 - operational-standards-definition
